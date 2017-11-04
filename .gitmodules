@@ -3,7 +3,7 @@
 	url = https://github.com/google/protobuf.git
 [submodule "deps/mosh"]
 	path = deps/mosh
-	url = https://github.com/mobile-shell/mosh.git
+	url = https://github.com/rinne/mosh.git
 [submodule "deps/zlib"]
 	path = deps/zlib
 	url = https://github.com/madler/zlib.git
